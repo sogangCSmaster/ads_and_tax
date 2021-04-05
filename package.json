@@ -1,0 +1,24 @@
+{
+  "name": "ads_and_tax",
+  "version": "1.0.0",
+  "description": "광고비, 계산서 발행 추적을 위한 관리 툴",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sogangCSmaster/ads_and_tax.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sogangCSmaster/ads_and_tax/issues"
+  },
+  "homepage": "https://github.com/sogangCSmaster/ads_and_tax#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  }
+}
